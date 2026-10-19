@@ -1,0 +1,6 @@
+{
+  "name": "CAR SIMULATOR — By Engr. Bilal Mehmood",
+  "description": "Interactive browser-based 3D car driving simulator with realistic vehicle physics, steering wheel, pedal controls, multiple camera angles, and driving challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
